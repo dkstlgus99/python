@@ -6,7 +6,14 @@ def animate_sunrise(sun):
   h = canvas.getHeight()
   r = sun.getRadius()
   x0 = w / 2.0
-  y0 = h + r
+  y0 = h + rㅓㅏㅘㅣ
+  
+  'ㅓㅜㅠㅕㅗㅑㅗ하ㅘㅣ;\
+  ]
+  
+  
+  
+  
   xradius = w / 2.0 - r
   yradius = h
   for angle in range(181):
